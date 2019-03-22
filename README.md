@@ -1,17 +1,17 @@
 # github-story-2019
 
 
-#Tittle: Spring
+# Tittle: Spring
 
-##Chapter One
-###Ongoing
+## Chapter One
+On going
 
-##Chapter Two
-###Ongoing
+## Chapter Two
+On going
 
 
-##Chapter Three
-###Ongoing
+## Chapter Three
+On going
 
-##Chapter Three: Alternate Ending
-###Ongoing 
+## Chapter Three: Alternate Ending
+On going 

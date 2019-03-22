@@ -17,4 +17,4 @@ On going
 On going 
 
 
-Link to the github story page:[github story link](https://carlpagayonan.github.io/github-story-2019/)
+Link to the github story page: [Github Story Link](https://carlpagayonan.github.io/github-story-2019/)

@@ -1,15 +1,12 @@
 # **_When Spring Ends_**
 
-## Chapter One
+## Chapters
 [Chapter One](Chapter01.html)
 
-## Chapter Two
-On going
+[Chapter Two](Chapter02.html)
 
-## Chapter Three
-On going
-
-## Chapter Three: Alternate Ending
+[Chapter Three](Chapter03.html)
+## Alternate Ending
 On going 
 
 

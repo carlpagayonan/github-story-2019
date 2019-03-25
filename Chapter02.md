@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Chapter Two</title>
-</head>
-<body>
 <h1>The Introduction</h1>
 <p>
     The next morning, I got up and had a smile on my face.
@@ -17,5 +10,3 @@
 
 </p>
 
-</body>
-</html>

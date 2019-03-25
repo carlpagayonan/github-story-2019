@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Chapter One</title>
-</head>
-<body>
 <h1>Spring 1952</h1>
 <p>
     It was spring of 1952, I was sitting down on a bed of leaves under a tree in the college grounds.
@@ -20,6 +13,3 @@
 
 </p>
 
-
-</body>
-</html>

@@ -12,6 +12,5 @@
     I smiled at her and gave her books. She smiled and thanked me. As soon as she was walking away, 
     I ran after her and said “I think you’re really beautiful! I was thinking if you don’t mind going for coffee with me?”
     I told her about this local coffee shop that does amazing coffee. She sounded intrigue and said yes to me. I told her to meet up at the front of the campus tomorrow morning and we can go on from there.
-
 </p>
 

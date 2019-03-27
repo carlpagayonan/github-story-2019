@@ -14,3 +14,10 @@
     I told her about this local coffee shop that does amazing coffee. She sounded intrigue and said yes to me. I told her to meet up at the front of the campus tomorrow morning and we can go on from there.
 </p>
 
+
+[Chapter Two](Chapter02.md)
+
+[Chapter Three](Chapter03.md)
+
+[Github Story Link](https://carlpagayonan.github.io/github-story-2019/)
+

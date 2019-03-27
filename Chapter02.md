@@ -18,3 +18,9 @@
     As I was walking away, she run back and gave me a kiss on the cheek and said, “I had a really good time, see you tomorrow?”
 <p>
 
+
+[Chapter One](Chapter01.md)
+
+[Chapter Three](Chapter03.md)
+
+[Github Story Link](https://carlpagayonan.github.io/github-story-2019/)

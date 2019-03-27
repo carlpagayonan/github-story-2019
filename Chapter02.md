@@ -10,12 +10,11 @@
 </p>
 
 <p>
-    As we walk towards the coffee shop, we introduce ourselves properly and we chat along the way. 
-    It’s quite funny, I’ve never seen this girl around the campus before. I find her really amusing and I couldn’t stop starring at her. 
-    We arrive in the local coffee shop, we sat down, and I bought her a drink. The coffee shop has two floors and it’s settled near the river banks which you can see from the distance. 
-    She was amaze with the view and couldn’t believe that after all this time when she was living in the campus, she didn’t find this place. 
-    We talked for hours and enjoy each other’s company. We head back to the campus and we both said our goodbye. 
-    As I was walking away, she run back and gave me a kiss on the cheek and said, “I had a really good time, see you tomorrow?”
+   As we walked towards the coffee shop, we introduced ourselves properly and had a chat along the way. 
+   It’s quite funny, I’ve never seen this girl around the campus before. I found her really amusing and I couldn’t stop starring at her. 
+   We arrived in the local coffee shop, we sat down, and I bought her a drink. The coffee shop had two floors and it’s settled near the river banks which you can see from the distance. 
+   She was amazed with the view and couldn’t believe that after all this time when she was living in the campus, she didn’t find this place. We talked for hours and enjoyed each other’s company. 
+   We headed back to the campus where we both said our goodbye. As I was walking away, she ran back and gave me a kiss on the cheek and said, “I had a really good time, see you tomorrow?”
 <p>
 
 

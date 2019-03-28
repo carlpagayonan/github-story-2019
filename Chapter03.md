@@ -1,3 +1,7 @@
+[Main Page](https://carlpagayonan.github.io/github-story-2019/) | [Previous Chapter](Chapter02.md)
+
+
+
 <h1>End Of Spring</h1>
 
 <p>
@@ -20,7 +24,5 @@ I am glad, I got to meet her at the start of the spring
 </p>
 
 
-[Previous Chapter](Chapter02.md)
 
-[Main Page](https://carlpagayonan.github.io/github-story-2019/)
 

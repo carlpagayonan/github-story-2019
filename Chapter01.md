@@ -1,3 +1,7 @@
+[Main Page](https://carlpagayonan.github.io/github-story-2019/) | [Next Chapter](Chapter02.md)
+
+
+
 <h1>Spring 1952</h1>
 
 <p>
@@ -14,8 +18,4 @@
     I told her about this local coffee shop that does amazing coffee. She sounded intrigue and said yes to me. I told her to meet up at the front of the campus tomorrow morning and we can go on from there.
 </p>
 
-
-[Next Chapter](Chapter02.md)
-
-[Main Page](https://carlpagayonan.github.io/github-story-2019/)
 

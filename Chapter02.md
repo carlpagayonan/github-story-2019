@@ -1,3 +1,6 @@
+[Main Page](https://carlpagayonan.github.io/github-story-2019/) | [Previous Chapter](Chapter01.md) | [Next Chapter](Chapter03.md)
+
+
 <h1>The Introduction</h1>
 
 <p>
@@ -17,6 +20,4 @@
    We headed back to the campus where we both said our goodbye. As I was walking away, she ran back and gave me a kiss on the cheek and said, “I had a really good time, see you tomorrow?”
 <p>
 
-
-[Previous Chapter](Chapter01.md) | [Next Chapter](Chapter03.md)
 

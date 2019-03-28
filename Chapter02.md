@@ -18,8 +18,6 @@
 <p>
 
 
-[Chapter One](Chapter01.md)
+[Previous Chapter](Chapter01.md) | [Next Chapter](Chapter03.md)
 
-[Chapter Three](Chapter03.md)
-
-[Github Story Link](https://carlpagayonan.github.io/github-story-2019/)
+[Main Page](https://carlpagayonan.github.io/github-story-2019/)

@@ -15,9 +15,7 @@
 </p>
 
 
-[Chapter Two](Chapter02.md)
+[Next Chapter](Chapter02.md)
 
-[Chapter Three](Chapter03.md)
-
-[Github Story Link](https://carlpagayonan.github.io/github-story-2019/)
+[Main Page](https://carlpagayonan.github.io/github-story-2019/)
 

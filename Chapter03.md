@@ -20,9 +20,7 @@ I am glad, I got to meet her at the start of the spring
 </p>
 
 
-[Chapter One](Chapter01.md)
+[Previous Chapter](Chapter02.md)
 
-[Chapter Two](Chapter02.md)
-
-[Github Story Link](https://carlpagayonan.github.io/github-story-2019/)
+[Main Page](https://carlpagayonan.github.io/github-story-2019/)
 

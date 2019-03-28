@@ -20,4 +20,3 @@
 
 [Previous Chapter](Chapter01.md) | [Next Chapter](Chapter03.md)
 
-[Main Page](https://carlpagayonan.github.io/github-story-2019/)
